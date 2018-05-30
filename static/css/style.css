@@ -116,7 +116,7 @@ body {
 
 .btn:hover {
 	color: #fff;
-	background: #e64946;
+	background: #08C;
 }
 
 /* Animation */
@@ -283,7 +283,7 @@ blockquote {
 	margin: 0 0 20px;
 	margin: 0 0 1.25rem;
 	line-height: 1.6;
-	border-left: 5px solid #e64946;
+	border-left: 5px solid #08C;
 }
 
 blockquote p:last-child {
@@ -447,7 +447,7 @@ select {
 .divider {
 	height: 5px;
 	margin: 0;
-	background: #e64946;
+	background: #08C;
 	border: 0;
 }
 
@@ -509,15 +509,15 @@ select {
 }
 
 .opened.menu__list {
-	border-top: 1px solid #e64946;
+	border-top: 1px solid #08C;
 }
 
 .menu__item:hover {
-	background: #e64946;
+	background: #08C;
 }
 
 .menu__item--active {
-	background: #e64946;
+	background: #08C;
 }
 
 .menu__item:first-child {
@@ -539,7 +539,7 @@ select {
 
 	.menu {
 		min-height: 42px;
-		border-bottom: 5px solid #e64946;
+		border-bottom: 5px solid #08C;
 	}
 
 	.menu__item {
@@ -581,7 +581,7 @@ select {
 }
 
 .meta a:hover {
-	color: #e64946;
+	color: #08C;
 }
 
 .meta .icon {
@@ -629,12 +629,12 @@ select {
 .post__content a,
 .warning a {
 	font-weight: 700;
-	color: #e64946;
+	color: #08C;
 }
 
 .post__content a:hover,
 .warning a:hover {
-	color: #e64946;
+	color: #08C;
 	text-decoration: underline;
 }
 
@@ -708,7 +708,7 @@ select {
 }
 
 .tags__item:hover {
-	background: #e64946;
+	background: #08C;
 }
 
 .tags__link,
@@ -723,7 +723,7 @@ select {
 	height: 32px;
 	padding: 8px;
 	margin-right: 6px;
-	background: #e64946;
+	background: #08C;
 	fill: #fff;
 }
 
@@ -802,7 +802,7 @@ select {
 .pagination__item:hover,
 .pagination__item--current {
 	color: #fff;
-	background: #e64946;
+	background: #08C;
 }
 
 /* Post Navigation */
@@ -895,7 +895,7 @@ input[type=email]:hover,
 input[type=tel]:hover,
 input[type=url]:hover,
 textarea:hover {
-	border: 1px solid #e64946;
+	border: 1px solid #08C;
 }
 
 input[type=submit] {
@@ -906,7 +906,7 @@ input[type=submit] {
 	color: #fff;
 	text-transform: uppercase;
 	cursor: pointer;
-	background: #e64946;
+	background: #08C;
 	border: 0;
 	-webkit-transition: all .1s linear;
 	-moz-transition: all .1s linear;
@@ -942,7 +942,7 @@ textarea {
 	font-size: 16px;
 	font-size: 1rem;
 	text-transform: uppercase;
-	border-bottom: 3px solid #e64946;
+	border-bottom: 3px solid #08C;
 }
 
 .widget__item {
